@@ -900,7 +900,7 @@ HTML_FOOTER            =
 # style sheet in the HTML output directory as well, or it will be erased!
 
 HTML_STYLESHEET        = 
-
+HTML_EXTRA_STYLESHEET  = ./style/style.css
 # The HTML_EXTRA_FILES tag can be used to specify one or more extra images or 
 # other source files which should be copied to the HTML output directory. Note 
 # that these files will be copied to the base HTML output directory. Use the 
