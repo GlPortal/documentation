@@ -1,6 +1,6 @@
 # Doxyfile 1.8.1.2
 
-# This file describes the settings to be used by the documentation system
+# This file describes the settings to be used by the documentation systems
 # doxygen (www.doxygen.org) for a project
 #
 # All text after a hash (#) is considered a comment and will be ignored
@@ -128,7 +128,7 @@ FULL_PATH_NAMES        = YES
 # If left blank the directory from which doxygen is run is used as the 
 # path to strip.
 
-STRIP_FROM_PATH        = 
+STRIP_FROM_PATH        = /home/henry/system/websites/glportal-tools/
 
 # The STRIP_FROM_INC_PATH tag can be used to strip a user-defined part of 
 # the path mentioned in the documentation of a class, which tells 
