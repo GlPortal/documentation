@@ -3,15 +3,15 @@
 @anchor mainpage
 
 Welcome to the GlPortal documentation. 
-Check out the file World.cpp to get to a central point.
-Go to glPortal::Game::update() to start at the game loop.
+Check out the file \ref World.cpp to get to a central point.
+Go to \ref glPortal::Game::update() to start at the game loop.
 
 ## Installation
 You can download a <strong>binary release</strong> from our website at <a href="http://glportal.de">http://glportal.de</a>.
 
 The <strong>source code</strong> can be downloaded from <a href="https://github.com/GlPortal/glPortal">https://github.com/GlPortal/glPortal</a>.
 
-For instructions on how to build the game refer to COMPILE.org in the document root.
+For instructions on how to build the game refer to \ref COMPILE.md in the document root.
 
 ## Tools
 <p>
