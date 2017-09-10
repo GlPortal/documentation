@@ -15,7 +15,7 @@ For instructions on how to build the game refer to \ref COMPILE.md in the docume
 
 ## Tools
 <p>
-<strong>Current issues</strong> can be found at <a href="http://bugs.glportal.de">http://bugs.glportal.de</a>. Please sign up and report your issues there.
+<strong>Current issues</strong> can be found on <a href="https://github.com/GlPortal/glPortal/issues">github</a>. Please sign up and report your issues there.
 
 <strong>Source code metrics</strong> can be found at <a href="http://metrics.glportal.de">http://metrics.glportal.de</a>.
 
